@@ -12,4 +12,6 @@ For the theoretical results (and algorithms) used consult
 
 ---
 
-**Credit**: [arjunhw97](https://github.com/arjunhw97/MSN-Flocking-Formation-Control), [amirhosseinh77](https://github.com/amirhosseinh77/Flocking-Multi-Agent), [paul-shuvo](https://github.com/paul-shuvo/MSN-Flocking-Formation-Control), and [ap3885](https://github.com/ap3885/Multi-Agent-Flocking).
+**Credit**: [arjunhw97](https://github.com/arjunhw97/MSN-Flocking-Formation-Control), [amirhosseinh77](https://github.com/amirhosseinh77/Flocking-Multi-Agent), [paul-shuvo](https://github.com/paul-shuvo/MSN-Flocking-Formation-Control), and [ap3885](https://github.com/ap3885/Multi-Agent-Flocking)
+
+Explore: more @[harveydevereux](https://github.com/harveydevereux/Consensus)
