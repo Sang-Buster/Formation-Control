@@ -2,7 +2,6 @@
 
 This is a python implementation of "Flocking for multi-agent dynamic systems: Algorithms and theory" by Olfati-Saber, Reza. You can find the article using these links: [IEEE](https://ieeexplore.ieee.org/abstract/document/1605401), [PDF](https://sci-hub.yncjkj.com/10.1109/TAC.2005.864190).
 
-
 <div style="text-align: right">**Credit**: [paul-shuvo](https://github.com/paul-shuvo/MSN-Flocking-Formation-Control), [amirhosseinh77](https://github.com/amirhosseinh77/Flocking-Multi-Agent)</div>
 
 

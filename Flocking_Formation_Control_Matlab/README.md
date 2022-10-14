@@ -1,9 +1,8 @@
-#  MSN Flocking Formation Control
+#  MSN Flocking Formation Control-MATLAB Version
 
 This is a python implementation of "Flocking for multi-agent dynamic systems: Algorithms and theory" by Olfati-Saber, Reza. You can find the article using these links: [IEEE](https://ieeexplore.ieee.org/abstract/document/1605401), [PDF](https://sci-hub.yncjkj.com/10.1109/TAC.2005.864190).
 
-
-<div style="text-align: right">**Credit**: [paul-shuvo](https://github.com/paul-shuvo/MSN-Flocking-Formation-Control), [amirhosseinh77](https://github.com/amirhosseinh77/Flocking-Multi-Agent)</div>
+<div style="text-align: right">**Credit**: [arjunhw97](https://github.com/arjunhw97/MSN-Flocking-Formation-Control), [ap3885](https://github.com/ap3885/Multi-Agent-Flocking)</div>
 
 ---
 
