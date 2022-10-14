@@ -1,6 +1,6 @@
 #  MSN Flocking Formation Control-Python Version
 
-This is a Pythonimplementation of "Flocking for multi-agent dynamic systems: Algorithms and theory" by Olfati-Saber, Reza. You can find the article using these links: [IEEE](https://ieeexplore.ieee.org/abstract/document/1605401), [PDF](https://sci-hub.yncjkj.com/10.1109/TAC.2005.864190).
+This is a Python implementation of "Flocking for multi-agent dynamic systems: Algorithms and theory" by Olfati-Saber, Reza. You can find the article using these links: [IEEE](https://ieeexplore.ieee.org/abstract/document/1605401), [PDF](https://sci-hub.yncjkj.com/10.1109/TAC.2005.864190).
 
 
 ## Getting started
@@ -24,7 +24,7 @@ $ python src/msn_1.py
 ## Variable names
 For easier understanding the variables are named similar to the equations described below.
 
-For example,  <img src='alg_img\c_1_alpha.png' width=20px> is denoted as `C1_ALPHA` (all capital as it's a constant), <img src='alg_img\p_ik.png' width=30px> is denoted as `p_i_k`, and so on.
+For example, $c_{1}^{a}$ is denoted as `C1_ALPHA` (all capital as it's a constant), $p_{i, k}$ is denoted as `p_i_k`, and so on.
 
 ## Cases
 

@@ -6,7 +6,7 @@ This is a MATLAB implementation of "Flocking for multi-agent dynamic systems: Al
 
 ## Installation
 
-Install MATLAB to your system, copy the directory "src" to your MATLAB directory or any other directory and open and run any of the files - MSN1.m, MSN2.m, MSN3.m, MSN4.m, MSN5.m, MSN6.m and MSN6switching.m for the 7 cases explained below respectively.
+Install MATLAB to your system, copy the directory `src` to your MATLAB directory or any other directory and open and run any of the files - MSN1.m, MSN2.m, MSN3.m, MSN4.m, MSN5.m, MSN6.m and MSN6switching.m for the 7 cases explained below respectively.
 
 ## Project parameters:
 - Number of sensor nodes: n =100.
