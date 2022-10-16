@@ -1,6 +1,6 @@
 # Flocking Algorithmn
 
- Python and MATLAB implementations of  Flocking Algorithmn
+ Python and MATLAB implementations of  Flocking Algorithmn and Formation Control Algorithmn.
 
 ## References
 
@@ -12,4 +12,4 @@
 
 **Credit**: [arjunhw97](https://github.com/arjunhw97/MSN-Flocking-Formation-Control), [amirhosseinh77](https://github.com/amirhosseinh77/Flocking-Multi-Agent), [paul-shuvo](https://github.com/paul-shuvo/MSN-Flocking-Formation-Control), and [ap3885](https://github.com/ap3885/Multi-Agent-Flocking)
 
-Explore: more @[harveydevereux](https://github.com/harveydevereux/Consensus)
+**Explore**: more @[harveydevereux](https://github.com/harveydevereux/Consensus)
