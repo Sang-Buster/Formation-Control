@@ -1,4 +1,4 @@
-# Flocking Algorithmn
+# Flocking Algorithmn and Formation Control
 
  Python and MATLAB implementations of  Flocking Algorithmn and Formation Control Algorithmn.
 
