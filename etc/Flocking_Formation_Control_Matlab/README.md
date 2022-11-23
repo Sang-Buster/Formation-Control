@@ -136,4 +136,3 @@ H. G. Tanner, A. Jadbabaie and G. J. Pappas, "Flocking in Fixed and Switching Ne
 ---
 
 **Credit**: [arjunhw97](https://github.com/arjunhw97/MSN-Flocking-Formation-Control) and [ap3885](https://github.com/ap3885/Multi-Agent-Flocking)
-

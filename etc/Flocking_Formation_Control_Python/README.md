@@ -173,4 +173,3 @@ q' = u
 ---
 
 **Credit**: [paul-shuvo](https://github.com/paul-shuvo/MSN-Flocking-Formation-Control) and [amirhosseinh77](https://github.com/amirhosseinh77/Flocking-Multi-Agent)
-
