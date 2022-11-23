@@ -1,10 +1,12 @@
 <h1 align="center">Flocking Algorithmn and Formation Control</h1>
 
-<p align="center">Python and MATLAB implementations of  Flocking Algorithmn and Formation Control Algorithmn.</p>
+<small><p align="center">Python and MATLAB implementations of  Flocking Algorithmn and Formation Control Algorithmn.</p></small>
 
 <b><p align="center">#Unmanned Aerial Vehicles &emsp; #Multi-agent Systems  &emsp; #Communication-aware <br/> #Decentralized  &emsp; #Distributed  &emsp; #Consensus-based  &emsp; #Formation Control</p></b>
 
- &emsp; Over the past few decades, unmanned aerial vehicle (UAV) technology has played a significant role in military and civilian applications. To meet the challenges of the future, in addition to improving the functionality and utility of individual aircraft, there is a need to consider how to develop more effective UAV management and organizations. Consequently, among the many developments in UAVs, formation control has become an important concept in recent years. Formation control requires multiple UAVs to adapt to the mission including generate a formation, stay in formation, and change formation. In this paper, we further constrain the formation controller model, not only estimate the desired separation with acceptable accuracy but also ensure a consensus among estimates. Thus, optimizes the overall communication performance of a dynamical multi-agent system.
+</br>
+
+&emsp; Over the past few decades, unmanned aerial vehicle (UAV) technology has played a significant role in military and civilian applications. To meet the challenges of the future, in addition to improving the functionality and utility of individual aircraft, there is a need to consider how to develop more effective UAV management and organizations. Consequently, among the many developments in UAVs, formation control has become an important concept in recent years. Formation control requires multiple UAVs to adapt to the mission including generate a formation, stay in formation, and change formation. In this paper, we further constrain the formation controller model, not only estimate the desired separation with acceptable accuracy but also ensure a consensus among estimates. Thus, optimizes the overall communication performance of a dynamical multi-agent system.
 
 </br>
 
