@@ -22,7 +22,7 @@
 
 </br>
 
-<h3 align="center">References</h2>
+<h2 align="center">References</h2>
 
 [1] *R. Olfati-Saber, "Flocking for multi-agent dynamic systems: algorithms and theory," in IEEE Transactions on Automatic Control, vol. 51, no. 3, pp. 401-420, March 2006. doi: 10.1109/TAC.2005.864190*
 
