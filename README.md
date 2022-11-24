@@ -8,22 +8,17 @@
 
 &emsp; Over the past few decades, unmanned aerial vehicle (UAV) technology has played a significant role in military and civilian applications. To meet the challenges of the future, in addition to improving the functionality and utility of individual aircraft, there is a need to consider how to develop more effective UAV management and organizations. Consequently, among the many developments in UAVs, formation control has become an important concept in recent years. Formation control requires multiple UAVs to adapt to the mission including generate a formation, stay in formation, and change formation. In this paper, we further constrain the formation controller model, not only estimate the desired separation with acceptable accuracy but also ensure a consensus among estimates. Thus, optimizes the overall communication performance of a dynamical multi-agent system.
 
+<h2 align="center">Simulation</h2>
 
+<h4 align="Center">Before Proposed with 7+1 Agents According to <a href="https://www-sciencedirect-com.proxy.lib.pdx.edu/science/article/pii/S0016003215001593">[3]</a></h4>
+<p align="center">
+<img src="https://github.com/Sang-Buster/Formation-Control/blob/main/img/Before.gif?raw=true" width="350">
+</p>
 
-<p align="Center">Before Proposed with 7+1 Agents According to [3]</p>
-
-<center>
-
-![Before](img/Before.gif)
-
-</center>
-
-
-<p align="Center">After Proposed with 7+1 Agents According to [3]</p>
-
-![After_NE](img/After_NE-Direction.gif)
-
-![After_NE](img/After_NE-Direction.gif)
+<h4 align="Center">After Proposed with 7+1 Agents</h4>
+<p align="center">
+<img src="https://github.com/Sang-Buster/Formation-Control/blob/main/img/After_NE-Direction.gif?raw=true" width="350"><img src="https://github.com/Sang-Buster/Formation-Control/blob/main/img/After_E-Direction.gif?raw=true" width="350">
+</p>
 
 </br>
 
