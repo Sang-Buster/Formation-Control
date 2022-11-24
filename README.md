@@ -16,11 +16,21 @@
 </p>
 
 <h4 align="Center">After Proposed with 7+1 Agents</h4>
-<p align="center">
-<img src="https://github.com/Sang-Buster/Formation-Control/blob/main/img/After_NE-Direction.gif?raw=true" width="350"><img src="https://github.com/Sang-Buster/Formation-Control/blob/main/img/After_E-Direction.gif?raw=true" width="350">
-</p>
 
+<div align="center">
+<table>
+  <tr>
+    <th>4 Predisents</th>
+    <th>6 Presidents</th>
+  </tr>
+  <tr>
+    <td><p align="center"><img src="img/After_NE-Direction.gif" width="400"></p></td>
+    <td><p align="center"><img src="img/After_E-Direction.gif" width="400"></p></td>
+  </tr>
+</table>
+</div>
 </br>
+</div>
 
 <h2 align="center">References</h2>
 
