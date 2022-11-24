@@ -24,8 +24,8 @@
     <th>8 Agents Teaveling at E Direction</th>
   </tr>
   <tr>
-    <td><p align="center"><img src="img/After_NE-Direction.gif" width="390"></p></td>
-    <td><p align="center"><img src="img/After_E-Direction.gif" width="390"></p></td>
+    <td><p align="center"><img src="img/After_NE-Direction.gif" width="380"></p></td>
+    <td><p align="center"><img src="img/After_E-Direction.gif" width="380"></p></td>
   </tr>
 </table>
 </div>
