@@ -20,12 +20,12 @@
 <div align="center">
 <table>
   <tr>
-    <th>4 Predisents</th>
-    <th>6 Presidents</th>
+    <th>8 Agents Teaveling at NE Direction</th>
+    <th>8 Agents Teaveling at E Direction</th>
   </tr>
   <tr>
-    <td><p align="center"><img src="img/After_NE-Direction.gif" width="400"></p></td>
-    <td><p align="center"><img src="img/After_E-Direction.gif" width="400"></p></td>
+    <td><p align="center"><img src="img/After_NE-Direction.gif" width="390"></p></td>
+    <td><p align="center"><img src="img/After_E-Direction.gif" width="390"></p></td>
   </tr>
 </table>
 </div>
