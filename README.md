@@ -34,13 +34,13 @@
 
 <h2 align="center">References</h2>
 
-[1] *R. Olfati-Saber, "Flocking for multi-agent dynamic systems: algorithms and theory," in IEEE Transactions on Automatic Control, vol. 51, no. 3, pp. 401-420, March 2006. doi: 10.1109/TAC.2005.864190*
+[[1]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Olfati-Saber.pdf) *R. Olfati-Saber, "Flocking for multi-agent dynamic systems: algorithms and theory," in IEEE Transactions on Automatic Control, vol. 51, no. 3, pp. 401-420, March 2006. doi: 10.1109/TAC.2005.864190*
 
-[2] *H. G. Tanner, A. Jadbabaie and G. J. Pappas, "Flocking in Fixed and Switching Networks," in IEEE Transactions on Automatic Control, vol. 52, no. 5, pp. 863-868, May 2007. doi: 10.1109/TAC.2007.895948*
+[[2]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Tanner.pdf) *H. G. Tanner, A. Jadbabaie and G. J. Pappas, "Flocking in Fixed and Switching Networks," in IEEE Transactions on Automatic Control, vol. 52, no. 5, pp. 863-868, May 2007. doi: 10.1109/TAC.2007.895948*
 
-[3] H. Li, J. Peng, W. Liu, K. Gao, and Z. Huang, “A novel communicationaware formation control strategy for dynamical multi-agent systems,” Journal of the Franklin Institute, vol. 352, no. 9, pp. 3701-3715, Sep. 2015.
+[[3]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Li.pdf) H. Li, J. Peng, W. Liu, K. Gao, and Z. Huang, “A novel communicationaware formation control strategy for dynamical multi-agent systems,” Journal of the Franklin Institute, vol. 352, no. 9, pp. 3701-3715, Sep. 2015.
 
-[4] K. Fathian, T. H. Summers, and N. R. Gans, “Distributed formation control and navigation of fixed-wing UAVs at constant altitude,” in 2018 International Conference on Unmanned Aircraft Systems (ICUAS), 2018.
+[[4]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Fathian.pdf) K. Fathian, T. H. Summers, and N. R. Gans, “Distributed formation control and navigation of fixed-wing UAVs at constant altitude,” in 2018 International Conference on Unmanned Aircraft Systems (ICUAS), 2018.
 
 ---
 
