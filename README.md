@@ -1,6 +1,6 @@
 <h1 align="center">Flocking Algorithm and Formation Control</h1>
 
-<small><p align="center">Python and MATLAB implementations of Flocking Algorithm and Formation Control Algorithm.</p></small>
+<p align="center"><small>Python and MATLAB implementations of Flocking Algorithm and Formation Control Algorithm.</small></p>
 
 <p align="center"><b>#Unmanned Aerial Vehicles &emsp; #Multi-agent Systems  &emsp; #Communication-aware <br/> #Decentralized  &emsp; #Distributed  &emsp; #Consensus-based  &emsp; #Formation Control</b></p>
 
@@ -30,7 +30,6 @@
 </table>
 </div>
 </br>
-</div>
 
 <h2 align="center">References</h2>
 
@@ -38,7 +37,7 @@
 
 [[2]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Tanner.pdf) H. G. Tanner, A. Jadbabaie and G. J. Pappas, "*Flocking in Fixed and Switching Networks*," in IEEE Transactions on Automatic Control, vol. 52, no. 5, pp. 863-868, May 2007. doi: 10.1109/TAC.2007.895948
 
-[[3]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Li.pdf) H. Li, J. Peng, W. Liu, K. Gao, and Z. Huang, “*A novel communicationaware formation control strategy for dynamical multi-agent systems*,” Journal of the Franklin Institute, vol. 352, no. 9, pp. 3701-3715, Sep. 2015.
+[[3]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Li.pdf) H. Li, J. Peng, W. Liu, K. Gao, and Z. Huang, “*A novel communication-aware formation control strategy for dynamical multi-agent systems*,” Journal of the Franklin Institute, vol. 352, no. 9, pp. 3701-3715, Sep. 2015.
 
 [[4]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Fathian.pdf) K. Fathian, T. H. Summers, and N. R. Gans, “*Distributed formation control and navigation of fixed-wing UAVs at constant altitude*,” in 2018 International Conference on Unmanned Aircraft Systems (ICUAS), 2018.
 
