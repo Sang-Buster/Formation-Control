@@ -1,6 +1,6 @@
 <h1 align="center">Flocking Algorithm and Formation Control</h1>
 
-<p align="center"><small>Python and MATLAB implementations of Flocking Algorithm and Formation Control Algorithm.</small></p>
+<h6 align="center"><small>Python and MATLAB implementations of Flocking Algorithm and Formation Control Algorithm.</small></h6>
 
 <p align="center"><b>#Unmanned Aerial Vehicles &emsp; #Multi-agent Systems  &emsp; #Communication-aware <br/> #Decentralized  &emsp; #Distributed  &emsp; #Consensus-based  &emsp; #Formation Control</b></p>
 
