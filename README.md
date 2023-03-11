@@ -31,10 +31,10 @@
 </div>
 </br>
 
-<h2 align="center">References</h2>
+<h2 align="center">Citation</h2>
 
-To cite our paper:
-```text
+Bibtex citation for our paper
+```
 @INPROCEEDINGS{Xing2304:Consensus,
 AUTHOR="Sang Xing and Thomas Yang and Houbing H Song",
 TITLE="{Consensus-Based} {Communication-Aware} Formation Control for a Mobile
@@ -59,7 +59,7 @@ overall communication performance of a dynamical multi-agent system."
 }
 ```
 
-
+<h2 align="center">References</h2>
 
 [[1]](https://github.com/Sang-Buster/Formation-Control/blob/main/lib/Olfati-Saber.pdf) R. Olfati-Saber, "*Flocking for multi-agent dynamic systems: algorithms and theory*," in IEEE Transactions on Automatic Control, vol. 51, no. 3, pp. 401-420, March 2006. doi: 10.1109/TAC.2005.864190
 
