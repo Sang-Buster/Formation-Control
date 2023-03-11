@@ -31,9 +31,8 @@
 </div>
 </br>
 
-<h2 align="center">Citation</h2>
+<h2 align="center">BibTeX Citation</h2>
 
-Bibtex citation for our paper
 ```
 @INPROCEEDINGS{Xing2304:Consensus,
 AUTHOR="Sang Xing and Thomas Yang and Houbing H Song",
