@@ -31,7 +31,7 @@
 </div>
 </br>
 
-**PS**: In order to run `src/Swarm_Formation_of_8_After.m`, it is required to have Matlab-based modeling system for convex optimization ([CVX](http://cvxr.com/cvx/))! You can install CVX by running `src/cvx/cvx_setup.m` script.
+**PS**: In order to run `src/Swarm_Formation_of_8_After.m`, it is required to have Matlab-based modeling system for convex optimization ([CVX](http://cvxr.com/cvx/))! You can install CVX at [here]([Download CVX | CVX Research, Inc.](http://cvxr.com/cvx/download/)), and sign up for a liscence at [here](http://cvxr.com/cvx/licensing/).
 
 <h2 align="center">BibTeX Citation</h2>
 
